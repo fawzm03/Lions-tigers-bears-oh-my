@@ -1,0 +1,1 @@
+{\n  "name": "lions-tigers-bears-oh-my",\n  "version": "1.0.0",\n  "scripts": {\n    "start": "http-server .",\n    "build": "echo 'Building the project'",\n    "test": "echo 'Running tests'"\n  },\n  "dependencies": {},\n  "devDependencies": {\n    "http-server": "^0.12.3"\n  }\n}
